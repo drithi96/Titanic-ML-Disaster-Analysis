@@ -2,7 +2,7 @@
 Analysis of what sorts of people were likely to survive the Titanic Disaster applying tools of machine learning to predict which passengers survived the tragedy.
 Used R Studio for this project.
 
-Goal
+<strong> Goal </strong>
 To predict if a passenger survived the sinking of the Titanic or not. For each in the test, there is prediction of 0 or 1 value for the variable.
 
 Data
